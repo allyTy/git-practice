@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Goodbye, world!" << endl;
+	cout << "Hello, world!" << endl;
         cout << "git is tracking this file." << endl;
 	return 0;
 }
