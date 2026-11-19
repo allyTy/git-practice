@@ -1,1 +1,5 @@
 Git practice notes
+a.git add stages change, it chooses what will go into the next commit
+b.git restore uncovers uncommited content, it puts the file to before it was committed
+c.hello.exe is a compiled file that can be regenerated from the source code, so storing it just clutters the repository and can cause conflicts between computers.
+d.git restore discards changes that haven't been committed yet and leaves no record. git revert undoes an existing commit by adding a new commit that reverses it, so the mistakes stays in the history.
